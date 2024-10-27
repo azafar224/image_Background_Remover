@@ -42,16 +42,16 @@ background_removal/
 ├── requirements.txt
 ├── main.py
 └── images/
-    ├── input.jpg
-    └── output.png
+    ├── input/input.jpg
+    └── output/output.png
 ```
 
 - **`README.md`**: Contains instructions and project information.
 - **`requirements.txt`**: Lists the necessary Python packages.
 - **`main.py`**: The main Python script that removes the background from the input image.
 - **`images/`**: Folder containing example images.
-  - `input.jpg`: Example input image.
-  - `output.png`: Generated output with the background removed.
+  - `input/input.jpg`: Folder containing example input image.
+  - `output/output.png`: Folder containing generated output with the background removed.
 
 ## Requirements
 
